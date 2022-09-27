@@ -17,6 +17,6 @@
 9| [Workshop 8](https://github.com/ptnghia3502/programming-fundamentals-workshop/tree/main/Workshop8) | Workshop | Workshop according to the syllabus
 
 ## ✔️ License & Copyright
-&copy; 2022 Tien Huynh tienhuynh-tn Licensed under the [GPL-3.0 LICENSE](https://github.com/ptnghia3502/programming-fundamentals-workshop/blob/main/LICENSE).
+&copy; 2022 Pham Trong Nghia Licensed under the [GPL-3.0 LICENSE](https://github.com/ptnghia3502/programming-fundamentals-workshop/blob/main/LICENSE).
 
 > 👌 Feel free to use my repository and star it if you find something interesting 😄
